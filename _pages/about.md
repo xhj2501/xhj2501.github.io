@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student from [ECE Department](https://ece.hkust.edu.hk/), [the Hong Kong University of Science and Technology](https://hkust.edu.hk/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a PhD student from [ECE Department](https://ece.hkust.edu.hk/), [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), commencing in 2023 Fall. I received my B.E. degree in Microelectroinc Science and Engineering from [University of Electrionic Science and Technology of China](https://www.uestc.edu.cn/) in 2023.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+Currently, I join the OPTICS and BDSL lab under the supervision of [Prof. Jiang XU](https://eexu.home.ece.ust.hk/).
 
