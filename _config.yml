@@ -83,7 +83,7 @@ author:
   name             : "Xiaohan JIANG"
   avatar           : "1.jpg"
   bio              : "PhD at HKUST"
-  location         : "Hong Kong, China"
+  location         : "Hong Kong, PRC"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/profile.php?id=61550934412781&mibextid=LQQJ4d"
   foursquare       :
   github           : "xhj2501"
   google_plus      :
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "76561198971569252"
+  steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
