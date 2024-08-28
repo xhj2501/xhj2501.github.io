@@ -14,4 +14,4 @@ Currently, I join the [BDSL](https://eexu.home.ece.ust.hk/) under the supervisio
 
 My current research interests include Electronic Design Automation (EDA) and Electronic-Photonic Design Automation (EPDA).
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=hV9O8XWwczWeEZaZhtTIWRi1b9giiPuPmIqmvfb_Fxw"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=hV9O8XWwczWeEZaZhtTIWRi1b9giiPuPmIqmvfb_Fxw&cl=ffffff&w=a"></script>
