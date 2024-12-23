@@ -1,4 +1,5 @@
 ---
+layout: archive
 collection: publications
 permalink: /publication
 ---
