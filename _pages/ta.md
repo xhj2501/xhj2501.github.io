@@ -1,6 +1,6 @@
 ---
 permalink: /TA/
-title: "Teaching Assitance"
+title: "Teaching Assistant"
 author_profile: true
 ---
 
