@@ -1,8 +1,7 @@
 ---
 permalink: /publication_new/
-title: "Publication"
+title: "Publications"
 author_profile: true
-redirect_from: 
 ---
 
 ## Conference
