@@ -8,8 +8,11 @@ main:
  # url: /talks/    
 
  - title: "Teaching Assistant"
-   url: /TA/    
-    
+   url: /TA/
+   
+ - title: "Courses"
+   url: /Courses/
+   
  # - title: "Portfolio"
  # url: /portfolio/
         
