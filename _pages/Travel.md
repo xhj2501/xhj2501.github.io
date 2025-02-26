@@ -11,4 +11,6 @@ author_profile: true
 ### 2024.08 Taiwan, PRC
 
 ### 2025.01 Kansai, Japan
+![Osaka Castle](./PXHJ3765.jpg)
+![Yasaka Shrine](./PXHJ4042.jpg)
 
