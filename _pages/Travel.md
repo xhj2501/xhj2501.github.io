@@ -14,5 +14,9 @@ author_profile: true
 ![Osaka Castle](./PXHJ3765.jpg)
 ![Nara Park](./PXHJ3825.jpg)
 ![Kyoto Streed](./PXHJ3883.jpg)
+![Birdhouse](./PXHJ3933.jpg)
+![Kiyomizu Temple](./PXHJ3977.jpg)
 ![Yasaka Shrine](./PXHJ4042.jpg)
+![Kinkakuji Temple](./PXHJ4160.jpg)
+![Kobe Bridge](./PXHJ4384.jpg)
 
