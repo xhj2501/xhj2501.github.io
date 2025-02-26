@@ -12,5 +12,7 @@ author_profile: true
 
 ### 2025.01 Kansai, Japan
 ![Osaka Castle](./PXHJ3765.jpg)
+![Nara Park](./PXHJ3825.jpg)
+![Kyoto Streed](./PXHJ3883.jpg)
 ![Yasaka Shrine](./PXHJ4042.jpg)
 
