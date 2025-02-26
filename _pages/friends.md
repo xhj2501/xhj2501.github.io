@@ -5,4 +5,4 @@ author_profile: true
 ---
 
 
-[Bohan HU](https://bohan-hu.github.io/) Ph.D. candidate at HKUST
+[Bohan HU](https://bohan-hu.github.io/): Ph.D. candidate at HKUST
