@@ -12,6 +12,12 @@ main:
    
  - title: "Courses"
    url: /Courses/
+
+ - title: "Friends"
+   url: /Friends/
+
+ - title: "Travel"
+   url: /Travel/
    
  # - title: "Portfolio"
  # url: /portfolio/
