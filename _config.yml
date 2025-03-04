@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaohan JIANG"
+title                    : "Xiaohan JIANG (江霄汉)"
 title_separator          : ""
-name                     : &name "Xiaohan JIANG"
+name                     : &name "Xiaohan JIANG (江霄汉)"
 description              : &description "personal description"
 url                      : https://xhj2501.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
