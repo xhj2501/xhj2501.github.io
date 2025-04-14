@@ -14,7 +14,6 @@ author_profile: true
 ![Taipei](./PXHJ2465.jpg)
 ![Penghu](./PXHJ2598.jpg)
 ![Alishan](./PXHJ2931.jpg)
-![Alishan](./PXHJ3086.jpg)
 ### 2025.01 Kansai, Japan
 ![Osaka Castle](./PXHJ3765.jpg)
 ![Nara Park](./PXHJ3825.jpg)
