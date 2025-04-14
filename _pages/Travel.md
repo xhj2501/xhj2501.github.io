@@ -24,4 +24,13 @@ author_profile: true
 ![Yasaka Shrine](./PXHJ4042.jpg)
 ![Kinkakuji Temple](./PXHJ4160.jpg)
 ![Kobe Bridge](./PXHJ4384.jpg)
+### 2025.04 Lyon, France
+![Lyon_1](./PXHJ4616.jpg)
+![Lyon_2](./PXHJ4733.jpg)
+![Lyon_3](./PXHJ4776.jpg)
+### 2025.04 Geneva/Lausanne, Switzerland
+### 2025.04 Zermatt, Switzerland
+### 2025.04 Interlaken, Switzerland
+### 2025.04 Lucerne, Switzerland
+### 2025.04 Paris, France
 
