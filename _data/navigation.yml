@@ -16,8 +16,8 @@ main:
  - title: "Friends"
    url: /Friends/
 
- - title: "Travel"
-   url: /Travel/
+ - title: "Gallery"
+   url: /Gallery/
    
  # - title: "Portfolio"
  # url: /portfolio/
