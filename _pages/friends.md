@@ -5,4 +5,6 @@ author_profile: true
 ---
 
 
-[Bohan HU](https://bohan-hu.github.io/): Ph.D. candidate at HKUST
+[Mr. Bohan HU](https://bohan-hu.github.io/): Ph.D. candidate at HKUST
+
+[Mr. Zeyu LI](https://shameless0817.github.io/): Ph.D. student at HKUST
