@@ -7,8 +7,10 @@ author_profile: true
 [Instagram](https://www.instagram.com/marvellousxhj/)
 
 [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5e7073c70000000001000b5f)-->
-<!--### 2025.04 Paris, France
-### 2025.04 Lucerne, Switzerland-->
+<!--### 2025.04 Paris, France-->
+### 2025.04 Lucerne, Switzerland
+![Lucerne_1](./PXHJ6238.jpg)
+![Lucerne_2](./PXHJ6260.jpg)
 ### 2025.04 Interlaken, Switzerland
 ![Interlaken_1](./PXHJ5784.jpg)
 ![Interlaken_2](./PXHJ5845.jpg)
