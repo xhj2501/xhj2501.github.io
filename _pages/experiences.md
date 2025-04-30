@@ -1,9 +1,9 @@
 ---
-permalink: /TA/
-title: "Teaching Assistant"
+permalink: /exp/
+title: "Experiences"
 author_profile: true
 ---
-
+## Teaching Assistant
 ### 2024 Spring
 * **ELEC 2350** Introduction to Computer Organization and Design
 
