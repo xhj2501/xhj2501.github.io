@@ -7,11 +7,11 @@ main:
  # - title: "Talks"
  # url: /talks/    
 
- - title: "Teaching Assistant"
-   url: /TA/
+ - title: "Experiences"
+   url: /exp/
    
- - title: "Courses"
-   url: /Courses/
+ # - title: "Courses"
+ #   url: /Courses/
 
  - title: "Friends"
    url: /Friends/
