@@ -9,4 +9,4 @@ author_profile: true
   
   **Xiaohan Jiang**, Yinyi Liu, Peiyu Chen, Wei Zhang, Jiang Xu*
 
-  2025 Design, Automation and Test in Europe Conference and Exhibition (DATE) 
+  2025 Design, Automation and Test in Europe Conference (DATE)    [link](https://ieeexplore.ieee.org/document/10993137)
