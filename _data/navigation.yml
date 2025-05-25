@@ -13,11 +13,11 @@ main:
  # - title: "Courses"
  #   url: /Courses/
 
- # - title: "Friends"
- #   url: /Friends/
+ - title: "Friends"
+   url: /Friends/
 
- # - title: "Gallery"
- #   url: /Gallery/
+ - title: "Gallery"
+   url: /Gallery/
    
  # - title: "Portfolio"
  # url: /portfolio/
