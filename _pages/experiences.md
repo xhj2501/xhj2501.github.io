@@ -15,3 +15,5 @@ author_profile: true
 ### 2025 Spring
 * **ELEC 2400** Electronic Circuits
 
+## Award
+* **2025 HKUST RedBird Academic Excellence Award**
