@@ -3,6 +3,9 @@ permalink: /exp/
 title: "Experiences"
 author_profile: true
 ---
+## Education
+* 
+
 ## Award
 * **2021 China National Scholarship (top 1.2%)**
 * **2025 HKUST RedBird Academic Excellence Award**
