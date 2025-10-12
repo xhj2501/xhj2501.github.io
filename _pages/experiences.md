@@ -9,6 +9,8 @@ author_profile: true
 
 ## Award
 * **2021 China National Scholarship (top 1.2%)**
+* **2020/2021/2022 UESTC First-class Scholarship for Outstanding Students**
+* **2023 UESTC Outstanding Graduate Award**
 * **2025 HKUST RedBird Academic Excellence Award**
 
 ## Teaching Assistant
