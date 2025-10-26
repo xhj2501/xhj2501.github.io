@@ -13,7 +13,7 @@ I'm a PhD candidate from [Hong Kong University of Science and Technology](https:
 My research interests include:
 * Electronic Design Automation (EDA)
 * Physical Design Automation
-* AI/LLM for EDA
+* AI for EDA
 
 <br>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=hV9O8XWwczWeEZaZhtTIWRi1b9giiPuPmIqmvfb_Fxw'></script>
