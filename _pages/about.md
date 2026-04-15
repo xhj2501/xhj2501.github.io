@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate from [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST) commencing in 2023 Fall, and I join the [AI System Lab](https://personal.hkust-gz.edu.cn/jiangxu/group.html) under the supervision of [Jiang Xu](https://scholar.google.com/citations?user=IxOQVaEAAAAJ). I have received my B.E. degree in Microelectronic Science and Engineering from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC) in 2023.
+I'm a PhD candidate from [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST) commencing in 2023 Fall, under the supervision of [Prof. Wei Zhang](https://scholar.google.com/citations?user=1nl6hScAAAAJ) and [Jiang Xu](https://scholar.google.com/citations?user=IxOQVaEAAAAJ). I have received my B.E. degree in Microelectronic Science and Engineering from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC) in 2023.
 
 My research interests include:
 * Machine Learning (ML)
