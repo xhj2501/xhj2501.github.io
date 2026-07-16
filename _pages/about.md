@@ -14,6 +14,7 @@ My research interests include:
 * Machine Learning (ML)
 * Reinforcement Learning (RL)
 * Large Language Model (LLM)
+* Computer Vision (CV)
 
 <br>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=hV9O8XWwczWeEZaZhtTIWRi1b9giiPuPmIqmvfb_Fxw'></script>
