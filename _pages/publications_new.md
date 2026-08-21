@@ -11,3 +11,6 @@ author_profile: true
 * PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation (*First PIC design script generation tool*)  
   **Xiaohan Jiang**, Zeyu Li, Wei Zhang, Jiang Xu*  
   2026 International Conference on Computer-Aided Design (ICCAD)
+* PICPlace: An Automatic Photonic Integrated Circuit Placement Framework via Reinforcement Learning (*First general PIC placement tool*)  
+  **Xiaohan Jiang**, Peiyu Chen, Yinyi Liu, Wei Zhang, Jiang Xu*  
+  2026 International Conference on Computer Design (ICCD)
