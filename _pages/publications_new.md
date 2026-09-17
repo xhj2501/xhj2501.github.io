@@ -4,7 +4,8 @@ title: "Publications"
 author_profile: true
 ---
 
-### Conference
+## Past Misguided Explorations
+> *Stay away, unless you view post-graduation homelessness as an inspiring life choice!*
 * PICELF: An Automatic Electronic Layer Layout Generation Framework for Photonic Integrated Circuits (*First PIC electrical routing tool*)  
   **Xiaohan Jiang**, Yinyi Liu, Peiyu Chen, Wei Zhang, Jiang Xu*  
   2025 Design, Automation and Test in Europe Conference (DATE)    [paper](https://ieeexplore.ieee.org/document/10993137)
