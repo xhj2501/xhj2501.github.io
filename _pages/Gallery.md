@@ -7,6 +7,14 @@ author_profile: true
 [Instagram](https://www.instagram.com/marvellousxhj/)
 
 [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5e7073c70000000001000b5f)-->
+### 2026.02 Fukuoka, Japan
+![Fukuoka_1](./jp_4.jpg)
+![Fukuoka_2](./jp_5.jpg)
+### 2025.07 Tokyo, Japan
+![Tokyo_1](./jp_3.jpg)
+![Tokyo_2](./jp_0.jpg)
+![Tokyo_3](./jp_1.jpg)
+![Tokyo_4](./jp_2.jpg)
 ### 2025.04 Paris, France
 ![Paris_1](./PXHJ6750.jpg)
 ![Paris_2](./PXHJ7047.jpg)
